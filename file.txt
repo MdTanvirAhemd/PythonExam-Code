@@ -1,0 +1,11 @@
+Name: Abul
+Regi: 12
+CGPA: 3.57
+
+Name: Babul
+Regi: 14
+CGPA: 3.77
+
+Name: Mabul
+Regi: 22
+CGPA: 3.17
